@@ -1,0 +1,5 @@
+1 con cmd entra en esta carpeta
+2 escribe:
+scrapy runspider isin_spider.py -o resultados.csv --logfile registro_incidencias.txt
+3 en la carpeta spiders tendrás ambos archivos, tardará un rato,
+#he forzado que vaya lento para que la web no me bloquee (lo ha hecho antes)
